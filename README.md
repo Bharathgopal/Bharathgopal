@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Bharathgopal/Bharathgopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+    -  Developing my programming skills in C/C++
+    -  Linux OS programming
+    -  Embedded systems
+    -  How to effectively teach 
+    -  Teaching someone how to teach themselves
+    
+- 🌱 I’m currently learning:
+    -  Linux OS programming
+    -  IoT in Medical Devices
+    -  Bluetooth Low Energy Stack
+    -  Shell scripting 
+    
+- 💬 Ask me about:
+    -  Programming in C/C++
+    -  Unit testing for C/C++
+    -  Linux user space programming
+    -  Writing Makefiles
+    -  Circuit designing & Battery operated devices
+    -  Bluetooth Low Energy application level programming in Embedded and Android.
+    -  ARM controller programming
+    -  RTOS, SPI, I2C, UART
+    -  Sensor integration
+    -  Staying fit without excercising
